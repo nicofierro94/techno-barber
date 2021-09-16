@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/techno-barber/static/css/main.9a419a73.chunk.css",
+    "main.js": "/techno-barber/static/js/main.b72d157a.chunk.js",
+    "main.js.map": "/techno-barber/static/js/main.b72d157a.chunk.js.map",
+    "runtime-main.js": "/techno-barber/static/js/runtime-main.db43203f.js",
+    "runtime-main.js.map": "/techno-barber/static/js/runtime-main.db43203f.js.map",
+    "static/js/2.7a501291.chunk.js": "/techno-barber/static/js/2.7a501291.chunk.js",
+    "static/js/2.7a501291.chunk.js.map": "/techno-barber/static/js/2.7a501291.chunk.js.map",
+    "index.html": "/techno-barber/index.html",
+    "static/css/main.9a419a73.chunk.css.map": "/techno-barber/static/css/main.9a419a73.chunk.css.map",
+    "static/js/2.7a501291.chunk.js.LICENSE.txt": "/techno-barber/static/js/2.7a501291.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/techno-barber/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db43203f.js",
+    "static/js/2.7a501291.chunk.js",
+    "static/css/main.9a419a73.chunk.css",
+    "static/js/main.b72d157a.chunk.js"
+  ]
+}
